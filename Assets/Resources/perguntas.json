@@ -1,0 +1,96 @@
+{
+  "categorias": [
+    {
+      "categoria": "História",
+      "perguntas": [
+        {
+          "pergunta": "Quem foi o primeiro presidente dos Estados Unidos?",
+          "dificuldade": 1,
+          "alternativas": ["George Washington", "Abraham Lincoln", "Thomas Jefferson", "John Adams"],
+          "correta": "George Washington"
+        },
+        {
+          "pergunta": "Em que ano começou a Segunda Guerra Mundial?",
+          "dificuldade": 2,
+          "alternativas": ["1937", "1939", "1941", "1945"],
+          "correta": "1939"
+        },
+        {
+          "pergunta": "Qual foi o tratado que encerrou a Primeira Guerra Mundial?",
+          "dificuldade": 3,
+          "alternativas": ["Tratado de Versalhes", "Tratado de Tordesilhas", "Tratado de Paris", "Tratado de Utrecht"],
+          "correta": "Tratado de Versalhes"
+        }
+      ]
+    },
+    {
+      "categoria": "Ciência",
+      "perguntas": [
+        {
+          "pergunta": "Qual é o planeta mais próximo do Sol?",
+          "dificuldade": 1,
+          "alternativas": ["Mercúrio", "Vênus", "Terra", "Marte"],
+          "correta": "Mercúrio"
+        },
+        {
+          "pergunta": "Qual é a unidade de medida da corrente elétrica?",
+          "dificuldade": 2,
+          "alternativas": ["Volt", "Ampere", "Ohm", "Watt"],
+          "correta": "Ampere"
+        },
+        {
+          "pergunta": "Quem desenvolveu a teoria da relatividade?",
+          "dificuldade": 3,
+          "alternativas": ["Isaac Newton", "Galileu Galilei", "Albert Einstein", "Marie Curie"],
+          "correta": "Albert Einstein"
+        }
+      ]
+    },
+    {
+      "categoria": "Matemática",
+      "perguntas": [
+        {
+          "pergunta": "Quanto é 7 + 3?",
+          "dificuldade": 1,
+          "alternativas": ["8", "9", "10", "11"],
+          "correta": "10"
+        },
+        {
+          "pergunta": "Qual é o valor de π (pi) com duas casas decimais?",
+          "dificuldade": 2,
+          "alternativas": ["3.12", "3.14", "3.16", "3.18"],
+          "correta": "3.14"
+        },
+        {
+          "pergunta": "Qual é a solução da equação 2x + 5 = 11?",
+          "dificuldade": 3,
+          "alternativas": ["x = 2", "x = 3", "x = 4", "x = 5"],
+          "correta": "x = 3"
+        }
+      ]
+    },
+    {
+      "categoria": "Geografia",
+      "perguntas": [
+        {
+          "pergunta": "Qual é o maior país do mundo em área?",
+          "dificuldade": 1,
+          "alternativas": ["Brasil", "Canadá", "Rússia", "China"],
+          "correta": "Rússia"
+        },
+        {
+          "pergunta": "Qual é o rio mais longo do mundo?",
+          "dificuldade": 2,
+          "alternativas": ["Rio Nilo", "Rio Amazonas", "Rio Yangtzé", "Rio Mississippi"],
+          "correta": "Rio Amazonas"
+        },
+        {
+          "pergunta": "Qual deserto é o maior do mundo?",
+          "dificuldade": 3,
+          "alternativas": ["Saara", "Gobi", "Antártico", "Kalahari"],
+          "correta": "Antártico"
+        }
+      ]
+    }
+  ]
+}
